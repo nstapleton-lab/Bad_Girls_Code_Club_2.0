@@ -1,0 +1,11 @@
+body {
+  background-image:
+url("https://cdn.shopify.com/s/files/1/0180/2353/products/map_print_50_x_70_1024x1024@2x.jpg?v=1571262703");
+  display: flex;
+  flex-wrap: wrap;
+  background-size: cover;
+  background-repeat: no-repeat;
+  webkit-background-size: cover;
+  moz-background-size: cover;
+  o-background-size: cover;
+}
